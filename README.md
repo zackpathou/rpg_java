@@ -3,7 +3,7 @@
 ## Screenshots
 
 <img
-		width="210"
+		width="600"
 		alt="Capture 1"
 		src="https://github.com/zackpathou/rpg_java/blob/master/src/main/resources/IMG/RPG_JAVA.JPG">
 
