@@ -2,8 +2,5 @@
 
 ## Screenshots
 
-<img
-		width="600"
-		alt="Capture 1"
-		src="https://github.com/zackpathou/rpg_java/blob/master/src/main/resources/IMG/RPG_JAVA.JPG">
+<img src="https://github.com/zackpathou/rpg_java/blob/master/src/main/resources/IMG/RPG_JAVA.JPG">
 
