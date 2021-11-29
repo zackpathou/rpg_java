@@ -4,3 +4,5 @@
 
 <img src="https://github.com/zackpathou/rpg_java/blob/master/src/main/resources/IMG/RPG_JAVA.JPG">
 
+## lancez Run sur l'IDE Eclipse 
+
